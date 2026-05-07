@@ -4,6 +4,8 @@ StepUp is a fitness and workout application developed in Python using Pygame as 
 
 The application allows users to complete workout routines, track progress, and earn in-app coins that can later be exchanged for real rewards.
 
+> Note: This repository is forked from the original team repository created during the nitzanim hackathon project.
+
 ## Features
 
 - User login and registration system
