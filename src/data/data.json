@@ -1,0 +1,24 @@
+{
+    "tasks": {
+        "Example Task": {
+            "name": "Example Task",
+            "coins": 5,
+            "description": "Task Information",
+            "image": "link to task Image"
+        }
+    },
+    "users": {
+        "Nati": {
+            "username": "Nati",
+            "password": "natitheking123",
+            "current_lvl": 0,
+            "coins": 0
+        },
+        "YuvalEl": {
+            "username": "YuvalEl",
+            "password": "YuvalPassword123",
+            "current_lvl": 2,
+            "coins": 4
+        }
+    }
+}

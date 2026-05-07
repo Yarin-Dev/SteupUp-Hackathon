@@ -1,0 +1,65 @@
+{
+    "strength": [
+      {
+        "name": "Push Ups",
+        "sets": 3,
+        "reps": 10,
+        "rest_seconds": 30,
+        "image": "assets/push-ups.png",
+        "coins": 75
+      },
+      {
+        "name": "Lunges",
+        "sets": 2,
+        "reps": 12,
+        "rest_seconds": 40,
+        "image": "assets/lunges.png",
+        "coins": 125
+      },
+      {
+        "name": "Squats",
+        "sets": 3,
+        "reps": 12,
+        "rest_seconds": 30,
+        "image": "assets/exercises/squats.png",
+        "coins": 50
+      }
+    ],
+    "cardio": [
+      {
+        "name": "Jumping Jacks",
+        "duration": 30,
+        "rest": 15,
+        "image": "assets/jumping-jacks.png",
+        "coins": 50
+      },
+      {
+        "name": "High Knees",
+        "duration": 30,
+        "rest": 15,
+        "image": "assets/high-knees.png",
+        "coins": 75
+      },
+      {
+        "name": "Mountain Climbers",
+        "duration": 30,
+        "rest": 20,
+        "image": "assets/exercises/mountain_climbers.png",
+        "coins": 120
+      },
+      {
+        "name": "Burpees",
+        "duration": 25,
+        "rest": 20,
+        "image": "assets/exercises/burpees.png",
+        "coins": 150
+      },
+      {
+        "name": "Butt Kicks",
+        "duration": 30,
+        "rest": 15,
+        "image": "assets/exercises/butt_kicks.png",
+        "coins": 200
+      }
+    ]
+  }
